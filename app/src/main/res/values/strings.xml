@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">FakeGpsDetectExapmle</string>
+    <string name="app_name">Fake GPS Detect</string>
+    <string name="status_checking">Checking…</string>
+    <string name="status_ok">Fake GPS: Not detected</string>
+    <string name="status_fake">Fake GPS: Detected</string>
+    <string name="detail_mock_setting">Allow mock locations: %1$s</string>
+    <string name="detail_using_mock">Using mock location: %1$s</string>
+    <string name="detail_installed_apps">Known fake GPS apps: %1$s</string>
+    <string name="none">none</string>
+    <string name="button_check">Re-check</string>
 </resources>
